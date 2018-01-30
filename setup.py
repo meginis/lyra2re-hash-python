@@ -34,6 +34,6 @@ setup (name = 'lyra2re2_hash',
        author_email = 'jameslovejoy1@gmail.com',
        author = 'James Lovejoy',
        url = 'https://github.com/metalicjames/lyra2re-hash-python',
-       description = 'Bindings for Lyra2RE2 proof of work used by Vertcoin',
+       description = 'Bindings for Lyra2RE2 proof of work used by STRAKS',
        ext_modules = [lyra2re2_hash_module, lyra2re_hash_module])
 
